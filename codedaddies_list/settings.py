@@ -30,7 +30,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['fierce-temple-54604.herokuapp.com']
 
-
 # Application definition
 
 INSTALLED_APPS = [
